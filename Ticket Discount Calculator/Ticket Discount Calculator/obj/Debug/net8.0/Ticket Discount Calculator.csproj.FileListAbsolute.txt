@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive\Desktop\Ticket Discount Calculator\Ticket Discount Calculator\bin\Debug\net8.0\Ticket Discount Calculator.exe
+C:\Users\Lenovo\OneDrive\Desktop\Ticket Discount Calculator\Ticket Discount Calculator\bin\Debug\net8.0\Ticket Discount Calculator.deps.json
+C:\Users\Lenovo\OneDrive\Desktop\Ticket Discount Calculator\Ticket Discount Calculator\bin\Debug\net8.0\Ticket Discount Calculator.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Desktop\Ticket Discount Calculator\Ticket Discount Calculator\bin\Debug\net8.0\Ticket Discount Calculator.dll
+C:\Users\Lenovo\OneDrive\Desktop\Ticket Discount Calculator\Ticket Discount Calculator\bin\Debug\net8.0\Ticket Discount Calculator.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Ticket Discount Calculator\Ticket Discount Calculator\obj\Debug\net8.0\Ticket Discount Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Desktop\Ticket Discount Calculator\Ticket Discount Calculator\obj\Debug\net8.0\Ticket Discount Calculator.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Ticket Discount Calculator\Ticket Discount Calculator\obj\Debug\net8.0\Ticket Discount Calculator.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Desktop\Ticket Discount Calculator\Ticket Discount Calculator\obj\Debug\net8.0\Ticket Discount Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\Ticket Discount Calculator\Ticket Discount Calculator\obj\Debug\net8.0\Ticket Discount Calculator.dll
+C:\Users\Lenovo\OneDrive\Desktop\Ticket Discount Calculator\Ticket Discount Calculator\obj\Debug\net8.0\refint\Ticket Discount Calculator.dll
+C:\Users\Lenovo\OneDrive\Desktop\Ticket Discount Calculator\Ticket Discount Calculator\obj\Debug\net8.0\Ticket Discount Calculator.pdb
+C:\Users\Lenovo\OneDrive\Desktop\Ticket Discount Calculator\Ticket Discount Calculator\obj\Debug\net8.0\Ticket Discount Calculator.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Desktop\Ticket Discount Calculator\Ticket Discount Calculator\obj\Debug\net8.0\ref\Ticket Discount Calculator.dll
